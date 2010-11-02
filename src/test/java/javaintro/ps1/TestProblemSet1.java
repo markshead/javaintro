@@ -1,5 +1,15 @@
 package javaintro.ps1;
 
+import javaintro.ps01.ProblemSet01Exercise01;
+import javaintro.ps01.ProblemSet01Exercise02;
+import javaintro.ps01.ProblemSet01Exercise03;
+import javaintro.ps01.ProblemSet01Exercise04;
+import javaintro.ps01.ProblemSet01Exercise05;
+import javaintro.ps01.ProblemSet01Exercise06;
+import javaintro.ps01.ProblemSet01Exercise07;
+import javaintro.ps01.ProblemSet01Exercise08;
+import javaintro.ps01.ProblemSet01Exercise09;
+import javaintro.ps01.ProblemSet01Exercise10;
 import junit.framework.TestCase;
 
 
