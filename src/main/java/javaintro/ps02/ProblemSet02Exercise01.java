@@ -44,6 +44,16 @@ public class ProblemSet02Exercise01 {
         return 0;
     }
     
+    /*
+     * Modulus is like division, but the result is the remainder.
+     * In this method, make it return the value of the first number
+     * modulus the second.  The modulus symbol is the % sign.
+     * firstNumber % secondNumber
+     */   
+    public static int modulus(int firstNumber, int secondNumber) {
+        return 0;
+    }
+    
     
 
 }

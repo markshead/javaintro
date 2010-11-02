@@ -13,7 +13,7 @@ import javaintro.ps01.ProblemSet01Exercise10;
 import junit.framework.TestCase;
 
 
-public class TestProblemSet1 extends TestCase{
+public class TestProblemSet01 extends TestCase{
     
     public void testProblemSet01Exercise01() {
         int x = ProblemSet01Exercise01.getTheNumberOne();
