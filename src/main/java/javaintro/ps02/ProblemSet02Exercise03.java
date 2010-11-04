@@ -29,8 +29,9 @@ public class ProblemSet02Exercise03 {
     }
 
     /*
-     * Test to see if x is between 5 and 50. Return true if it is within that
-     * range and false if it isn't.
+     * Test to see if x is between 5 and 50 inclusive. Return true if it is within that
+     * range and false if it isn't. (By inclusive we mean that the values 5 and 50
+     * are "included" in the range.)
      * 
      * There are comments and two "true" statements showing where to put the two
      * comparisons. The && is the AND logical operator.
